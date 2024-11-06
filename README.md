@@ -2,13 +2,15 @@
 
 To setup:
 
-1) Clone the repository to your local system:  
+1) Open Terminal
+  
+2) Clone the repository to your local system:  
 `git clone https://github.com/rn-v/frame-annotate.git`
 
-2) Go to repository:
+4) Go to repository:
 `cd frame-annotate`
 
-3) Run setup.sh
+5) Run setup.sh
 `sh setup.sh`
 
-4) Annotate!
+6) Open `txt-annotate.ipynb` or `img-annotate.ipynb`. Annotate!
