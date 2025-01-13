@@ -13,4 +13,6 @@ To setup:
 5) Run setup.sh
 `sh setup.sh`
 
+6) Read `Framing Codebook.pdf` for annotation guidelines.
+
 6) Open `txt-annotate.ipynb` or `img-annotate.ipynb`. Annotate!
